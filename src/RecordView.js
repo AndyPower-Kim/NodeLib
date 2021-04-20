@@ -10,7 +10,7 @@
 //                        RecordFields.size, length 추가
 //-----------------------------------------------------------------------
 'use strict';
-// 1 const eventEmitter = require('events');
+// 2 const eventEmitter = require('events');
 
 // RecodView.fields.size 를 쓰기 위해서 이다.
 // 원래는 length로 참조하면 되지만... 
